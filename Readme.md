@@ -1,7 +1,7 @@
 # Rentify Backend 
 
 ## Introduction
-                A comprehensive platform that bridges the gap between property owners and tenants, making it easier for owners to list properties and tenants to find the right home based on key preferences.
+  A comprehensive platform that bridges the gap between property owners and tenants, making it easier for owners to list properties and tenants to find the right home based on key preferences.
 
 ## Backend Features Breakdown
 
