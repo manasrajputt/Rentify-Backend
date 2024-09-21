@@ -14,7 +14,7 @@
 - View their active and inactive listings based on the property’s status.
 - Manage properties by type (Rent or Sell), providing flexibility and control over their listings.
 
-### Buyer Flow – Built an intuitive buyer module where users can:
+### Buyer Flow: Built an intuitive buyer module where users can:
 - Browse all properties for Rent or Sale.
 - Apply detailed filters such as type (Rent/Sell), rent price, sale price, sort by oldest/newest posts, and more.
 - Implemented pagination to optimize the browsing experience for users, making it easier to navigate through a large number of listings.
