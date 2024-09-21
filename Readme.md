@@ -33,4 +33,3 @@
 - Express.js – managing routes and API functionality.
 - MongoDB – a NoSQL database ensuring flexibility and fast retrieval of property listings.
 - Cloudinary – for handling image uploads and storage.
-- MVC Architecture – for maintainable, scalable code structure.
